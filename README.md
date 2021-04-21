@@ -1,4 +1,4 @@
-## 👋 Hi there , I am Ege 😊
+###👋 Hi there , I am Ege 😊
 
 ## What am I up to, though? 😊
 - 🔭 I’m currently working on several game project in Unity . 
