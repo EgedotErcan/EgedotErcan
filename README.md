@@ -1,7 +1,7 @@
 ### 👋 Hi there , I am Ege 😊
 
 ## What am I up to, though? 😄
--  🔭 I’m currently working on several game project in Unity . 
+-  🔭 I’m currently working on several game project in Unity and also play with datas :) .
 -  🤔 I’m looking for help with Unity, C#, Python in data-science .
 -  💬 Ask me about Unity Engine . 
 
