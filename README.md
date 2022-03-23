@@ -1,13 +1,11 @@
 ### 👋 Hi there , I am Ege 😊
 
 ## What am I up to, though? 😄
--  🔭 I’m currently working on several game project in Unity and also play with datas :) .
--  🤔 I’m looking for help with Unity, C#, Python in data-science .
--  💬 Ask me about Unity Engine . 
+-  🔭 I’m currently working on several game project in Unity and also playing with datas :) .
+-  🤔 I’m looking for help with Unity , data-science .
+-  💬 Ask me about Unity Engine , . 
 
-<br />
 
----
 <!--
 **EgedotErcan/EgedotErcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
