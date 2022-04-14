@@ -2,7 +2,7 @@
 
 ## What am I up to, though? 😄
 -  🔭 I’m currently working on several game project in Unity and also playing with datas :) .
--  🤔 I’m looking for help with Unity , data-science .
+-  🤔 I’m looking for help with machine learning , deep learning .
 -  💬 Ask me about Unity Engine , data manipulation . 
 
 
