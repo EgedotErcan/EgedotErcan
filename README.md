@@ -10,6 +10,9 @@
   <a href="https://egeercan.itch.io/">
     <img src="https://img.shields.io/static/v1?label=egeercan&message=itch.io&color=red&style=for-the-badge&logo=itchdotio" alt="itch.io badge"/>
   </a>
+  <a href="https://twitter.com/EgedotErcan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 </h1>
 </div>
