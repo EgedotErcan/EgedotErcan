@@ -19,9 +19,9 @@
 
 
 ### What am I up to, though? 😄
--  🔭 I’m currently working on web scraping, linux systems, C.
--  🤔 I’m looking for help with machine learning , deep learning .
--  💬 Ask me about Unity engine , data manipulation . 
+-  🔭 I’m currently working on linux systems, C, backend development.
+-  🤔 I’m looking for help with machine learning, deep learning, cybersecurity.
+-  💬 Ask me about Unity engine, data manipulation, web scraping. 
 
 
 
