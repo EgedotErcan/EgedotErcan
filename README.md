@@ -20,7 +20,7 @@
 
 ### What am I up to, though? 😄
 -  🔭 I’m currently working on linux systems, bash scripting, backend development including hasura, containerization.
--  🤔 I’m looking for help with machine learning, deep learning, cybersecurity.
+-  🤔 I’m looking for help with machine learning, deep learning, cybersecurity, kubernetes, server administration.
 -  💬 Ask me about Unity engine, data manipulation, web scraping. 
 
 
