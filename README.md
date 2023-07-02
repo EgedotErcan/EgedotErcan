@@ -19,9 +19,11 @@
 
 
 ### What am I up to, though? 😄
--  🔭 I’m currently working on linux systems, bash scripting, backend development including graphql, containerization.
--  🤔 I’m looking for help with machine learning, deep learning, cybersecurity, kubernetes, server administration.
--  💬 Ask me about web services, graphql, contatinerization, websocket, unity engine, data manipulation, web scraping. 
+- 🔭 I am currently focused on working with Linux systems, Bash scripting, and backend development, particularly using GraphQL and containerization technologies.
+
+- 🤔 I am seeking assistance in expanding my knowledge and skills in machine learning, deep learning, cybersecurity, Kubernetes, and server administration.
+
+- 💬 Feel free to ask me questions about web services, GraphQL, containerization, WebSocket, Unity engine, data manipulation, and web scraping. I'll do my best to provide helpful insights and information.
 
 
 
