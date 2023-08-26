@@ -24,7 +24,7 @@
 
 - 💬 Feel free to ask me questions about web services, GraphQL, containerization, WebSocket, Unity engine, data manipulation, and web scraping. I'll do my best to provide helpful insights and information.
 
-### You may visit [my website](https://egeercan.net) for further information.
+### You may visit [my website](https://egeercan.net) for further information. 😊
 
 
 
